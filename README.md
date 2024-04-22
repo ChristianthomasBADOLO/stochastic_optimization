@@ -2,7 +2,7 @@
 
 ---
 
-# Stochastic Optimization Project
+# Stochastic Optimization Algorithms
 
 ## Overview
 
